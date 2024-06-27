@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/anime_sh22" target="blank"><img src="https://img.shields.io/twitter/follow/anime_sh22?logo=twitter&style=for-the-badge" alt="anime_sh22" /></a> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Spring Boot,React,Blockchain**
+- 💬 Ask me about **Spring Boot,Java,Blockchain**
 
 - 📫 How to reach me **reachanimeshhere@gmail.co**
 
