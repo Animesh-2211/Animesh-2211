@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Spring Boot,Java,Blockchain**
 
-- 📫 How to reach me **reachanimeshhere@gmail.co**
+- 📫 How to reach me **reachanimeshhere@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Vbt22rjQPzrvS_JOMrJMd-HojXrhubL5/view?usp=sharing](https://drive.google.com/file/d/1Vbt22rjQPzrvS_JOMrJMd-HojXrhubL5/view?usp=sharing)
 
