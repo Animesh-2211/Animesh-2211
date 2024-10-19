@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **reachanimeshhere@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vbt22rjQPzrvS_JOMrJMd-HojXrhubL5/view?usp=sharing](https://drive.google.com/file/d/1Vbt22rjQPzrvS_JOMrJMd-HojXrhubL5/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1UGloN8IelQ1-TZX3OG66HfETKvZHyt09/view?usp=sharing .
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
